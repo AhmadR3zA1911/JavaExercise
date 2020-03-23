@@ -1,0 +1,2 @@
+# JavaExercise
+Solve Java Practice
