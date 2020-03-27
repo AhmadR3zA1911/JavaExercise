@@ -1,7 +1,7 @@
 public class Practice0109 {
     /*
-    متدی بنویسید که یک آرایه دو بعدی از n را دریافت میکند و مقادیر آنرا در خروجی استاندارد چاپ کند
-    create a method that receives a two-dimensional array of n and prints its values to the standard output
+    متدی بنویسید که آرایه ای دو بعدی از int را دریافت میکند دریافت میکند و بزرگترین عنصر آن آرایه را بر میگرداند
+    create a method that receives a two-dimensional array of int, and returns the largest element of that array
      */
 
     public  static void  main (String [] args)
