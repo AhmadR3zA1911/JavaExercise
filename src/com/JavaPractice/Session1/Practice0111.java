@@ -1,3 +1,5 @@
+package com.JavaPractice.Session1;
+
 public class Practice0111 {
     /*
     متدی بنویسید که یک آرایه از اعداد و یک عدد را دریافت کند، سپس با جستجو در آرایه، تعداد

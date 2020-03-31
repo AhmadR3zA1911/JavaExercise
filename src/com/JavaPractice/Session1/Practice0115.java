@@ -1,3 +1,5 @@
+package com.JavaPractice.Session1;
+
 public class Practice0115 {
     /*
     متدی بنویسید که دو آرایه از اعداد که تعداد عناصر آنها یکسان است را به صورت پارامتر دریافت کند،

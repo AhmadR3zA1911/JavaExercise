@@ -1,3 +1,5 @@
+package com.JavaPractice.Session1;
+
 public class Practice0101 {
 //آرایهای 10 تایی از اعداد بسازید و مقادیر آنرا در خروجی استاندارد چاپ کنید.
 //Create 10 arrays of numbers and print them in standard output.

@@ -1,3 +1,5 @@
+package com.JavaPractice.Session1;
+
 public class Practice0105 {
     /*
     متدی بنویسید که آرایهای از اعداد دریافت میکند و میانگین آنها را بصورت یک عدد double برمیگرداند

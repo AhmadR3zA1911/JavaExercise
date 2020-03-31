@@ -1,3 +1,5 @@
+package com.JavaPractice.Session1;
+
 public class Practice0107 {
     /*
         متدی بنویسید که آرایهای از اعداد را دریافت نموده و سپس عناصر آرایه را به صورت معکوس

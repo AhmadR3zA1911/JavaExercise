@@ -1,3 +1,5 @@
+package com.JavaPractice.Session1;
+
 public class Practice0120 {
     /*
     در کلاس زیر مکانهایی را که خطای کامپایل دارند پیدا کنید:

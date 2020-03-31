@@ -1,3 +1,5 @@
+package com.JavaPractice.Session1;
+
 public class Practice0121 {
     /*
     در زیر داده های مختلفی تعریف شده اند، داده هایی را که به یکدیگر قابل تبدیل هستند را به

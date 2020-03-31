@@ -1,3 +1,5 @@
+package com.JavaPractice.Session1;
+
 public class Practice0109 {
     /*
     متدی بنویسید که آرایه ای دو بعدی از int را دریافت میکند دریافت میکند و بزرگترین عنصر آن آرایه را بر میگرداند

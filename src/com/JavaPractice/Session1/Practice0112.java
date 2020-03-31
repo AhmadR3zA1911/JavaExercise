@@ -1,3 +1,5 @@
+package com.JavaPractice.Session1;
+
 import javax.sound.midi.SysexMessage;
 
 public class Practice0112 {

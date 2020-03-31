@@ -1,3 +1,5 @@
+package com.JavaPractice.Session1;
+
 public class Practice0104 {
 /*
 آرایهای 5 تایی از رشته بسازید و مقادیر پیشفرض آنرا در خروجی استاندارد چاپ کنید.

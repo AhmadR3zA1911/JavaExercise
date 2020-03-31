@@ -1,3 +1,5 @@
+package com.JavaPractice.Session1;
+
 public class Practice0110 {
     /*
     متدی بنویسید که آرایه ای دوبعدی از int را  دریافت میکند و میانگین عناصر آنرا برمیگرداند

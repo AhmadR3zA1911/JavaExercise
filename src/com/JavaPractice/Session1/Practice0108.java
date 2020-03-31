@@ -1,3 +1,5 @@
+package com.JavaPractice.Session1;
+
 public class Practice0108 {
     /*
     متدی بنویسید که یک آرایه دوبعدی ازint را دریافت میکند و مقادیر آنرا در خروجی استاندارد چاپ کند
