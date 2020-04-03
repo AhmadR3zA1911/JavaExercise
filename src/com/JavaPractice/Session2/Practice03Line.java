@@ -1,10 +1,10 @@
 package com.JavaPractice.Session2;
 
-public class Line {
+public class Practice03Line {
     private double x;
     private double y;
 
-    public Line (double x , double y)
+    public Practice03Line(double x , double y)
     {
         this.x=x;
         this.y=y;
@@ -29,7 +29,7 @@ public class Line {
 
     public boolean equils (Object obj)
     {
-        Line line = (Line) obj;
+        Practice03Line line = (Practice03Line) obj;
         if(this.x==line.x && this.y==line.y)
             return true;
         else

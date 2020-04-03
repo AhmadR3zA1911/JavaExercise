@@ -1,16 +1,16 @@
 package com.JavaPractice.Session2;
 
-public class Date {
+public class Practice01Date {
     private int day;
     private  int month;
     private int year ;
 
-    public Date (int day)
+    public Practice01Date(int day)
     {
         this(day,0,0);
     }
 
-    public Date(int day , int month , int year)
+    public Practice01Date(int day , int month , int year)
     {
         this.day=day;
         this.month=month;

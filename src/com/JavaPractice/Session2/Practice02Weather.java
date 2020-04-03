@@ -1,12 +1,12 @@
 package com.JavaPractice.Session2;
 
-public class Weather {
+public class Practice02Weather {
     private  int currentTemp;
     private  int maxTempLast24;
     private  int minTempLast24;
     private  int humidity; //میزان رطوبت
 
-    public Weather(int currentTemp, int maxTempLast24, int minTempLast24, int humidity) {
+    public Practice02Weather(int currentTemp, int maxTempLast24, int minTempLast24, int humidity) {
         this.currentTemp = currentTemp;
         this.maxTempLast24 = maxTempLast24;
         this.minTempLast24 = minTempLast24;
@@ -47,7 +47,7 @@ public class Weather {
 
     public boolean equals (Object obj)
     {
-        Weather weather = (Weather) obj;
+        Practice02Weather weather = (Practice02Weather) obj;
         if (this.currentTemp==weather.currentTemp)
             return true;
         else
