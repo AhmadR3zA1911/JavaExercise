@@ -55,7 +55,7 @@ public class Practice011Country {
             return false;
     }
 
-    
+
     public String toString() {
         return "Country{" +
                 "name='" + name + '\'' +
